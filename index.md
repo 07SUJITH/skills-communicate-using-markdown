@@ -7,3 +7,6 @@
 ###### This is an `<h6>` header, which is the smallest
 <!--- added headers h1 to h6--->
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+const greeting = "Goodmorning , have a nice day"
+```
